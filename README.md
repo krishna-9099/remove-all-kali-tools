@@ -4,7 +4,6 @@ This project aims to provide a simple and efficient way to remove all Kali tools
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -12,18 +11,6 @@ This project aims to provide a simple and efficient way to remove all Kali tools
 ## Introduction
 
 Kali Linux is a powerful and widely used penetration testing platform. However, there may be situations where you want to remove all Kali tools from your system. This project provides a script that automates the process, making it quick and hassle-free.
-
-## Installation
-
-To install the script, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Run the installation script using the following command:
-
-```bash
-./install.sh
-```
 
 ## Usage
 
